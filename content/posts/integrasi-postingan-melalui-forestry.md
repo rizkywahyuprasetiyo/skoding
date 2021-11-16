@@ -9,3 +9,5 @@ title = "Integrasi Postingan Melalui Forestry"
 Framework yang satu ini patut teman-teman coba karena di fitur didalamnya sangat powerfull untuk membangun sebuah blog.
 
 Saya sangat merekomendasikan hugo untuk teman-teman developer yang ingin membangun blog pribadi sebagai prsonal branding konten.
+
+Saya mengupdate sesuatu
